@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: shop-frontend
-          image: ghcr.io/berrouyne/shop-frontend:initial
+          image: ghcr.io/berrouyne/shop-frontend:4ead4ef
           ports:
             - containerPort: 80
